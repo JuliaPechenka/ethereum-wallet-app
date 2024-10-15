@@ -1,0 +1,11 @@
+.balance {
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.errorMessage {
+    font-size: 12px;
+    color: red;
+    text-transform: capitalize;
+}
